@@ -1,5 +1,5 @@
 # tiff2pdf
-A simple package to convert tiff images to pdf
+A simple package to convert a batch of tiff images to pdf files.
 
 # Install
 `git clone https://github.com/ayansengupta17/tiff2pdf.git`
