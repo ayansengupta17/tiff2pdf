@@ -10,7 +10,7 @@ setup(
     name=NAME,
     version=VERSION,
     description="a small package for converting tiff images to python",
-    url="https://github.com/cogentlabs/img_align.git",
+    url="https://github.com/ayansengupta17/tiff2pdf",
     author="Ayan Sengupta",
     author_email="ayansengupta17@gmail.com",
     include_package_data=True,
