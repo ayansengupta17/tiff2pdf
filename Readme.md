@@ -7,7 +7,6 @@ A simple package to convert a batch of tiff images to pdf files.
 `pip install -U .`
 
 # Use
-
 To checkout the help use
 `to-pdf --help`
 To convert all tiff images in  `input_path` to pdfs and save them in `output_path` use
