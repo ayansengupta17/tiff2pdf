@@ -14,6 +14,7 @@ Install package:
 # Use
 To checkout the help use
 `to-pdf --help`
+
 To convert all tiff images in  `input_path` to pdfs and save them in `output_path` use
 `to-pdf -i input_path -o output_path`
 
