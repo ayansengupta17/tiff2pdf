@@ -16,7 +16,7 @@ setup(
     include_package_data=True,
     package_data={NAME: ["py.typed"]},
     packages=find_packages(),
-    install_requires=["click==8.1.3", "pathlib==1.0.1", "Pillow==9.2.0", "tomli==2.0.1", "tqdm==4.64.0"],
+    install_requires=["click==8.1.3", "pathlib==1.0.1", "Pillow==10.0.1", "tomli==2.0.1", "tqdm==4.64.0"],
     entry_points={
         "console_scripts": [
             "to-pdf=tiff2pdf.tiff2pdf:tiff_to_pdf",
